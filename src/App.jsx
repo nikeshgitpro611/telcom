@@ -109,7 +109,7 @@ function App() {
         <h2 style={{ color: "green" }}>♟️ EXPERIENCE AND PERFORMANCE ♟️ </h2>
         <b>Tata Communication Ltd</b>
       </div>
-      <div className="">
+      <div>
         <h2 style={{ color: "green" }}>🙅‍♂️ TEAM WORK 🙅‍♂️ </h2>
         <p>
           <b>M/s Telecon Enterprises : </b> from the beginning of the
@@ -121,6 +121,20 @@ function App() {
           including me, ever do great things. But we can all do small things,
           with great desire, and together we can do something wonderful.{" "}
         </p>
+      </div>
+      <div>
+        <h2 style={{ color: "green" }}>📞 STATUTORY COMPLIANCES: 🙅‍♂️ </h2>
+        <p>
+          We comply with statutory requirements and our labourers are covered by
+          labour welfare and other. Labourers are paid in accordance with
+          minimum wages act as per Govt. Notiϐication from time to time. Our
+          workers are covered under the Group Insurance policy and entitled to
+          the beneϐits.
+        </p>
+        <div>
+        <b>M/s Telecon Enterprises</b>
+        <p>F-70, Hari Nagar, Ext-III, Jaitpur, Badarpur, New Delhi – 11004</p>
+        </div>
       </div>
     </>
   );
