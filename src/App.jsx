@@ -9,7 +9,10 @@ function App() {
           flexDirection: "row",
         }}
       >
-        <img src="../src/assets/image.png" />
+        <div style={{color: '#57c72b'}}>
+
+          <h2 >M/s Telecon Enterprises</h2>
+        </div>
         <div
           style={{
             display: "flex",
